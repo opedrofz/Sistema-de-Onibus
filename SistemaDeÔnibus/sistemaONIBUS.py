@@ -127,9 +127,7 @@ while True:
     elif opcao == '0':              # fim  :)  <3
         print('\nPrograma Encerrado.')
         print('Até logo!')
-        print('\n--> Integrantes: Miguel, Paulo Roberto, Pedro Antônio. <--\n')
         break
 
     else:
         print('\nOpção Inválida! Tente novamente!')
-    
